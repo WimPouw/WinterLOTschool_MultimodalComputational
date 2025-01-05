@@ -1,0 +1,9 @@
+moviepy==2.1.1
+envisionhgdetector
+jupyter
+librosa
+scipy
+plotly
+nbformat>=4.2.0
+shapedtw
+umap-learn
