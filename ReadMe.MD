@@ -123,8 +123,7 @@ pip install -r requirementsbackupOS.txt
 ### Installing FFmpeg
 If you get an issue with FFmpeg with one of the heavier modules (envisionhgdetector) it needs to be installed at the system level (separate from your conda environment):
 
-Yes, Chocolatey (choco) would actually be a better alternative for Windows users! It's more straightforward and handles PATH settings automatically. Here's how I'd revise the FFmpeg installation instructions:
-markdownCopy### Installing FFmpeg
+### Installing FFmpeg
 FFmpeg is required and needs to be installed at the system level (separate from your conda environment):
 
 Windows:
