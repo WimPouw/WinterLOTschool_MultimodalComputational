@@ -120,4 +120,34 @@ pip install -r requirementsbackupOS.txt
 - If pip install fails: Make sure you're in the right folder with requirements.txt
 - If kernel doesn't show up: Ensure you activated the envision environment
 
+### Installing FFmpeg
+If you get an issue with FFmpeg with one of the heavier modules (envisionhgdetector) it needs to be installed at the system level (separate from your conda environment):
+
+Yes, Chocolatey (choco) would actually be a better alternative for Windows users! It's more straightforward and handles PATH settings automatically. Here's how I'd revise the FFmpeg installation instructions:
+markdownCopy### Installing FFmpeg
+FFmpeg is required and needs to be installed at the system level (separate from your conda environment):
+
+Windows:
+1. Using Chocolatey (recommended):
+   - Open PowerShell as Administrator
+   - Install Chocolatey if you haven't already:
+     ```powershell
+     Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+     ```
+   - Install FFmpeg:
+     ```powershell
+     choco install ffmpeg
+     ```
+   > ⚠️ After installation, close and reopen PowerShell/Anaconda Prompt
+
+Alternative manual method:
+- Download from https://www.gyan.dev/ffmpeg/builds/ (get "ffmpeg-release-essentials.zip")
+- Extract the zip file
+- Add the bin folder to your System PATH
+
+macOS:
+- Open Terminal and run:
+  ```bash
+  brew install ffmpeg
+  ```
 
