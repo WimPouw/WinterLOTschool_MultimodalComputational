@@ -96,13 +96,14 @@ conda activate envision
 conda install pip
 
 # Install tensorflow-cpu first (without version constraints)
-pip install tensorflow-cpu
+pip install tensorflow
 
 # Install envisionhgdetector without dependencies
 pip install envisionhgdetector==0.0.4.8 --no-deps
 
 # Install remaining dependencies
 pip install -r requirementsbackupOS.txt
+```
 
 ### Final Setup: Opening Your First Notebook
 
