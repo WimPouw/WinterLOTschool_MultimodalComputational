@@ -126,17 +126,12 @@ If you get an issue with FFmpeg with one of the heavier modules (envisionhgdetec
 ### Installing FFmpeg
 FFmpeg is required and needs to be installed at the system level (separate from your conda environment):
 
-Windows:
-conda install -c conda-forge ffmpeg
-
-Alternative manual method:
+Windows and mac users:
+1. In Anaconda Prompt (with envision environment activated):
+   ```bash
+   conda install -c conda-forge ffmpeg
+   ```
+Alternative manual method for Windows:
 - Download from https://www.gyan.dev/ffmpeg/builds/ (get "ffmpeg-release-essentials.zip")
 - Extract the zip file
 - Add the bin folder to your System PATH
-
-macOS:
-- Open Terminal and run:
-  ```bash
-  brew install ffmpeg
-  ```
-
