@@ -75,6 +75,34 @@ conda install pip
 # Install dependencies
 pip install -r requirements.txt
 ```
+## Alternative Installation for macOS Users
+
+If you encounter a tensorflow-cpu installation error on macOS, follow these alternative steps:
+
+### Step 6 (Alternative): Python Dependencies for macOS
+Open Terminal and run:
+
+```bash
+# Navigate to repository folder
+cd [your_folder_structure/WinterLOTschool_MultimodalComputational]
+
+# Create conda environment
+conda create -n envision python=3.9
+
+# Activate environment
+conda activate envision
+
+# Install pip
+conda install pip
+
+# Install tensorflow-cpu first (without version constraints)
+pip install tensorflow-cpu
+
+# Install envisionhgdetector without dependencies
+pip install envisionhgdetector==0.0.4.8 --no-deps
+
+# Install remaining dependencies
+pip install -r requirementsbackupOS.txt
 
 ### Final Setup: Opening Your First Notebook
 
@@ -87,7 +115,8 @@ pip install -r requirements.txt
    > ⚠️ If you don't see "envision", ensure you followed Step 6 correctly
 
 ## Common Issues
-
 - If conda commands aren't recognized: Restart your terminal/Anaconda Prompt
 - If pip install fails: Make sure you're in the right folder with requirements.txt
 - If kernel doesn't show up: Ensure you activated the envision environment
+
+
