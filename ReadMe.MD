@@ -127,17 +127,7 @@ If you get an issue with FFmpeg with one of the heavier modules (envisionhgdetec
 FFmpeg is required and needs to be installed at the system level (separate from your conda environment):
 
 Windows:
-1. Using Chocolatey (recommended):
-   - Open PowerShell as Administrator
-   - Install Chocolatey if you haven't already:
-     ```powershell
-     Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
-     ```
-   - Install FFmpeg:
-     ```powershell
-     choco install ffmpeg
-     ```
-   > ⚠️ After installation, close and reopen PowerShell/Anaconda Prompt
+conda install -c conda-forge ffmpeg
 
 Alternative manual method:
 - Download from https://www.gyan.dev/ffmpeg/builds/ (get "ffmpeg-release-essentials.zip")
