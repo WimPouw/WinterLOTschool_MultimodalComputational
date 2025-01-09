@@ -121,9 +121,6 @@ pip install -r requirementsbackupOS.txt
 - If kernel doesn't show up: Ensure you activated the envision environment
 
 ### Installing FFmpeg
-If you get an issue with FFmpeg with one of the heavier modules (envisionhgdetector) it needs to be installed at the system level (separate from your conda environment):
-
-### Installing FFmpeg
 FFmpeg is required and needs to be installed at the system level (separate from your conda environment):
 
 Windows and mac users:
