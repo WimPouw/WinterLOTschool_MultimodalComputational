@@ -55,7 +55,10 @@ Download and install from: https://desktop.github.com/download/
 4. Enter URL: https://github.com/WimPouw/WinterLOTschool_MultimodalComputational.git
 5. Choose where to save the repository on your computer
 
-### Step 6: Python Dependencies
+### Step 6: Install ELAN (if you want to look at gesture detection output)
+Download link: https://archive.mpi.nl/tla/elan/download
+
+### Step 7: Python Dependencies
 Open Anaconda Prompt (Windows) or Terminal (macOS/Linux):
 
 ```bash
