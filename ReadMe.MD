@@ -132,3 +132,7 @@ Alternative manual method for Windows:
 - Download from https://www.gyan.dev/ffmpeg/builds/ (get "ffmpeg-release-essentials.zip")
 - Extract the zip file
 - Add the bin folder to your System PATH
+
+## Collab links
+Day 1: https://colab.research.google.com/drive/12aC6Qd40jCHIramJE3VmQXEspJZDAvt7?usp=sharing
+
