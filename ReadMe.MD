@@ -139,3 +139,7 @@ Alternative manual method for Windows:
 ## Collab links
 Day 1: https://colab.research.google.com/drive/12aC6Qd40jCHIramJE3VmQXEspJZDAvt7?usp=sharing
 
+## Drive folder for videos and setup
+https://drive.google.com/drive/folders/1IevjiF2K49u9BjEixiTl7fOIhmoVevhW
+
+
