@@ -139,7 +139,12 @@ Alternative manual method for Windows:
 ## Collab links
 Day 1: https://colab.research.google.com/drive/12aC6Qd40jCHIramJE3VmQXEspJZDAvt7?usp=sharing
 
+# OTHER MATERIALS
 ## Drive folder for videos and setup
 https://drive.google.com/drive/folders/1IevjiF2K49u9BjEixiTl7fOIhmoVevhW
 
+## Slides
+Day 1 (intro): 
+Day 1 (technical):
+Day 2: https://docs.google.com/presentation/d/1rba1dqR6tdsmi45X2fvxUxXbavuhXQNgc9fNR-akh_U/edit#slide=id.g32561259a70_0_1135
 
