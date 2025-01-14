@@ -144,7 +144,8 @@ Day 1: https://colab.research.google.com/drive/12aC6Qd40jCHIramJE3VmQXEspJZDAvt7
 https://drive.google.com/drive/folders/1IevjiF2K49u9BjEixiTl7fOIhmoVevhW
 
 ## Slides
-Day 1 (intro): 
-Day 1 (technical):
-Day 2: https://docs.google.com/presentation/d/1rba1dqR6tdsmi45X2fvxUxXbavuhXQNgc9fNR-akh_U/edit#slide=id.g32561259a70_0_1135
-
+Day 1 (intro): https://github.com/WimPouw/WinterLOTschool_MultimodalComputational/blob/main/OtherMaterials/day1_lot_coreplan.pdf
+Day 1 (technical): (Forthcoming)
+Day 2 (intro & technical): https://docs.google.com/presentation/d/1rba1dqR6tdsmi45X2fvxUxXbavuhXQNgc9fNR-akh_U/edit#slide=id.g32561259a70_0_1135
+Day 3 (intro): (Forthcoming)
+Day 4 (technical): (Forthcoming)
