@@ -140,6 +140,9 @@ Alternative manual method for Windows:
 Day 1: https://colab.research.google.com/drive/12aC6Qd40jCHIramJE3VmQXEspJZDAvt7?usp=sharing
 
 # OTHER MATERIALS
+## Assignments
+* Course Manual: https://github.com/WimPouw/WinterLOTschool_MultimodalComputational/blob/main/OtherMaterials/PouwOwoyele_LOT_course%20description_RM1course.pdf
+
 ## Drive folder for videos and setup
 https://drive.google.com/drive/folders/1IevjiF2K49u9BjEixiTl7fOIhmoVevhW
 
