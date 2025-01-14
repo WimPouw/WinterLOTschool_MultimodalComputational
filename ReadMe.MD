@@ -150,6 +150,7 @@ https://drive.google.com/drive/folders/1IevjiF2K49u9BjEixiTl7fOIhmoVevhW
 * Day 1 (intro): https://github.com/WimPouw/WinterLOTschool_MultimodalComputational/blob/main/OtherMaterials/day1_lot_coreplan.pdf
 * Day 1 (technical): https://docs.google.com/presentation/d/1_MDUQq3kUk6UdzcilmhjHcGwl7yd6l8a/edit?usp=drive_link&ouid=117988542648841827008&rtpof=true&sd=true
 * Day 2 (intro & technical): https://docs.google.com/presentation/d/1rba1dqR6tdsmi45X2fvxUxXbavuhXQNgc9fNR-akh_U/edit#slide=id.g32561259a70_0_1135
+* Day 2 (conceptual: https://github.com/WimPouw/WinterLOTschool_MultimodalComputational/blob/main/OtherMaterials/day2_lot_conceptual.pdf
 * Day 3 (intro & technical): https://docs.google.com/presentation/d/1aGlpodfO5QZthprS-iWt7gDAdV8MUUIz/edit?usp=drive_link&ouid=117988542648841827008&rtpof=true&sd=true
 * Day 4 (intro & technical):  https://docs.google.com/presentation/d/1DzevNy8-rI2xUI5djLRCBwJ7bHju3p2B/edit?usp=drive_link&ouid=117988542648841827008&rtpof=true&sd=true
 * Day 5: Forthcoming
