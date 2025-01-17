@@ -153,4 +153,4 @@ https://drive.google.com/drive/folders/1IevjiF2K49u9BjEixiTl7fOIhmoVevhW
 * Day 2 (conceptual: https://github.com/WimPouw/WinterLOTschool_MultimodalComputational/blob/main/OtherMaterials/day2_lot_conceptual.pdf
 * Day 3 (intro & technical): https://docs.google.com/presentation/d/1aGlpodfO5QZthprS-iWt7gDAdV8MUUIz/edit?usp=drive_link&ouid=117988542648841827008&rtpof=true&sd=true
 * Day 4 (intro & technical):  https://docs.google.com/presentation/d/1DzevNy8-rI2xUI5djLRCBwJ7bHju3p2B/edit?usp=drive_link&ouid=117988542648841827008&rtpof=true&sd=true
-* Day 5: Forthcoming
+* Day 5: https://drive.google.com/file/d/1kreaDBXNUdP95AZdQCw0AHCAeEqyy0f0/view
